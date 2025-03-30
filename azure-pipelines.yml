@@ -5,7 +5,7 @@ pool:
   name: AgentAlicia
 
 variables:
-  solution: '*/.sln'
+  solution: 'C:\Users\alice\ClassLibraryProjects\ClassLibraryProjects.sln'  # Absolute path to your solution file
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
